@@ -7,3 +7,4 @@ coeficiente_atrito = 0.7 # Este valor pode variar dependendo do material das pas
 fator_freio = calcular_fator_freio(coeficiente_atrito)
 # Exibir o resultado
 print("Fator de Freio", fator_freio)
+Fator de Freio: 1.4
